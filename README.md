@@ -1,4 +1,4 @@
-# text-_summarizer
+# Legal_Eye_Summarizer_Module
 ## Workflows
 1. Update config.yaml
 2. Update params.yaml
